@@ -1,9 +1,8 @@
 # E031 license audit pointer
 
-The authoritative E031 license resolution is included at the repository root
-in `E031-LICENSE-ANALYSIS.md`, `E031-LICENSE-SOURCE-REGISTER.json`,
-`E031-WEIGHT-RELEASE-ASSESSMENT.md`, and
-`E031-LEGAL-REVIEW-BRIEF.md`.
+The E031 license analysis and source register are included at the repository
+root in `E031-LICENSE-ANALYSIS.md` and
+`E031-LICENSE-SOURCE-REGISTER.json`.
 
 The public decision is Track A publication with Track B learned weights held
 for legal review. This file is a pointer, not a claim that the adapter or
